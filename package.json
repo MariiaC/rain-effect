@@ -1,0 +1,19 @@
+{
+  "name": "rain-effect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MariiaC/rain-effect.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MariiaC/rain-effect/issues"
+  },
+  "homepage": "https://github.com/MariiaC/rain-effect#readme"
+}
